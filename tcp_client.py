@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import socket
 
 target_host = "0.0.0.0"
